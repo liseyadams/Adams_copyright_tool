@@ -20,6 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
+```ruby
+EliseAdamsViewTool::Renderer.copyright 'Elise Adams', 'All rights reserved'
+```
 
 ## Development
 
